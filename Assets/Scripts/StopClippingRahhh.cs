@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class StopClippingRahhh : MonoBehaviour
 {
-    private float yPosition = 1f;
+    private float yPosition = 0f;
 
     // Update is called once per frame
     void Update()
